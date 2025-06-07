@@ -1,6 +1,6 @@
 <!-- 기술 스택 -->
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
+  <h3>🛠️Strong Tech Stack</h3>
   <!-- Frontend -->
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -24,7 +24,7 @@
 
 <!-- 학습중인 기술 스택 -->
 <div align="center">
-  <h3>🛠️ Learning Tech Stack</h3>
+  <h3>🔧 Growing Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> 
