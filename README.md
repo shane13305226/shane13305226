@@ -1,5 +1,5 @@
 <!-- 기술 스택 -->
-<div align="left">
+<div align="center">
   <h3>🛠️ Tech Stack</h3>
   <!-- Frontend -->
   <p>
@@ -23,7 +23,7 @@
 <br>
 
 <!-- 학습중인 기술 스택 -->
-<div align="left">
+<div align="center">
   <h3>🛠️ Learning Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -35,7 +35,7 @@
 <br>
 
 <!--툴-->
-<div align=left>
+<div align="center">
   <h3>🧰Tools </h3> 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Nexacro Studio-000000?style=flat-square&logo=none&logoColor=white"/>	
@@ -50,7 +50,7 @@
 <!--깃허브 스탯
 <br>
 
-<div align=left>
+<div align="center">
   <h3>📊 GitHub Stats </h3>
   <img src="https://github-readme-stats.vercel.app/api?username=shane1330&show_icons=true&theme=react&hide_rank=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shane1330&layout=compact&theme=radical" />
